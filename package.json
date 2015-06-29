@@ -1,0 +1,14 @@
+{
+  "name": "tab-close-double-click",
+  "main": "./lib/tab-close-double-click",
+  "version": "0.0.0",
+  "description": "Close any tab by double clicking the tab",
+  "repository": "https://github.com/Evmorov/tab-close-double-click",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.0"
+  }
+}
