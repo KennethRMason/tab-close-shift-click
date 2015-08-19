@@ -1,5 +1,3 @@
-# tab-close-double-click package
+# tab-close-shift-click package
 
-Close any tab by double clicking the tab.
-
-![Screenshot](https://github.com/evmorov/tab-close-double-click/blob/master/tab-close.gif?raw=true)
+Close any tab by shift clicking the tab.
